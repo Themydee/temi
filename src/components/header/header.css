@@ -106,9 +106,9 @@
     }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 500px) {
     .nav__menu{
-        padding: 2rem 0.25rem 4rem;
+        padding: 1rem 0.25rem 1rem;
     }
 
     .nav__list{

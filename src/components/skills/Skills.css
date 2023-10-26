@@ -60,7 +60,7 @@
   }
   
   /* For medium devices */
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 500px) {
     .skills-container {
       grid-template-columns: 1fr;
     }

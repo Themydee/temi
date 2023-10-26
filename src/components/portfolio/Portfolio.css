@@ -116,10 +116,10 @@
     }
   }
   
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 500px) {
     .portfolio-img,
     .portfolio-card {
-      width: 360px;
+      width: 300px;
     }
   
     .portfolio-container {
