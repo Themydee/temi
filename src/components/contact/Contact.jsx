@@ -1,17 +1,7 @@
 import React from 'react'
-import { useRef } from 'react';
-import emailjs from '@emailjs/browser';
 import './Contact.css'
 
 const Contact = () => {
-    const form = useRef();
-
-  const sendEmail = (e) => {
-    e.preventDefault();
-
-    emailjs.sendForm('service_l4q1kya', 'template_knvd50x', form.current, 'Do1BjdYPbqTLTX5vI')
-      e.target.reset();
-  };
 
   return (
     <section className="contact section" id="contact">
@@ -46,11 +36,22 @@ const Contact = () => {
                 <i className="bx bx-right-arrow-alt contact-button-icon"></i>
               </a>
             </div>
+            <div className="contact-card">
+              <i className="bx bx-download contact-card-icon"></i>
+              <h3 className="contact-card-title">Resume</h3>
+              <a
+                href='https://drive.google.com/drive/folders/1LE5NpUWPe_nZk-27eTlyBwlm50QHlwBs?usp=drive_link'
+                className="contact-button"
+              >
+                Download now{" "}
+                <i className="bx bx-right-arrow-alt contact-button-icon"></i>
+              </a>
+            </div>
           </div>
         </div>
         <div className="contact-content">
           <h3 className="contact-title">Write me your project</h3>
-          <form ref={form} onSubmit={sendEmail} className="contact-form">
+          <form className="contact-form">
             <div className="contact-form-div">
               <label className="contact-form-tag">Name</label>
               <input
