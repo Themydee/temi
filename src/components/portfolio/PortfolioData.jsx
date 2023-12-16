@@ -61,8 +61,8 @@ const projectsData = [
     image: GEM,
     title: "GEMAMETTHYST Ng.",
     desc: "React Frontend Application created using React as rontend framework and Sass for styling",
-    url: "",
-    category: "PHP",
+    url: "https://gemamethyst.vercel.app/",
+    category: "React JS",
   },
   
 ];
