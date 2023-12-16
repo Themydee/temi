@@ -6,6 +6,7 @@ import MovieApp from "../../assets/movie.png"
 import GPT3 from"../../assets/gpt.png"
 import Admin from "../../assets/dboard.png"
 import Dragger from "../../assets/dragger.png"
+import GEM from "../../assets/gem.png"
 const projectsData = [
   {
     image: Amethyst,
@@ -53,6 +54,13 @@ const projectsData = [
     image: CAS,
     title: "Educational App",
     desc: "Full stack edu webpage created with Php & MySQL, HTML5, CSS3 and Javascript",
+    url: "",
+    category: "PHP",
+  },
+  {
+    image: GEM,
+    title: "GEMAMETTHYST Ng.",
+    desc: "React Frontend Application created using React as rontend framework and Sass for styling",
     url: "",
     category: "PHP",
   },
