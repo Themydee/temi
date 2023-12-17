@@ -32,8 +32,9 @@ const Contact = () => {
               <h3 className="contact-card-title">Email</h3>
               <span className="contact-card-data">nifetemiboy@gmail.com </span>
               <a
-                href="mailto:idibiaisaac3@gmail.com"
+                href="mailto:nifetemiboy@gmail.com"
                 className="contact-button"
+                target="_blank"
               >
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact-button-icon"></i>
@@ -46,6 +47,7 @@ const Contact = () => {
               <a
                 href="https://wa.me/2347065080140/"
                 className="contact-button"
+                target="_blank"
               >
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact-button-icon"></i>
@@ -57,6 +59,7 @@ const Contact = () => {
               <a
                 href='https://drive.google.com/drive/folders/1LE5NpUWPe_nZk-27eTlyBwlm50QHlwBs?usp=drive_link'
                 className="contact-button"
+                target="_blank"
               >
                 Download now{" "}
                 <i className="bx bx-right-arrow-alt contact-button-icon"></i>

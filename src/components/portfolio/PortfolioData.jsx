@@ -13,6 +13,7 @@ const projectsData = [
     title: "Ecommerce App",
     desc: "Ecommerce Application built with ReactJS, MUI",
     url: "https://amethshop.brimble.app/",
+    code: "",
     category: "React JS",
   },
   {
@@ -20,6 +21,7 @@ const projectsData = [
     title: "Movie App",
     desc: "Movie Applicaion built during HNG Internship.Built with ReactJS and API usage",
     url: "https://movieapp.brimble.app/",
+    code: "",
     category: "React JS",
   },
   {
@@ -27,6 +29,7 @@ const projectsData = [
     title: "Admin Dashboard",
     desc: "Admin Dashboard Built with ReactJS, MUI",
     url: "https://movieapp.brimble.app/",
+    code: "",
     category: "React JS",
   },
   {
@@ -34,6 +37,7 @@ const projectsData = [
     title: "Image Dragger",
     desc: "An Image Carousel Page created using ReactJs,  DND, useDraggable and useDroppable, Login using user@example.com and password :1Password",
     url: "https://hng-task-three-pearl.vercel.app",
+    code: "",
     category: "React JS",
   },
   {
@@ -41,6 +45,7 @@ const projectsData = [
     title: "GPT3",
     desc: "AI based on-page site butilt with ReactJS",
     url: "https://gpt3.brimble.app/",
+    code: "",
     category: "React JS",
   },
   {
@@ -48,6 +53,7 @@ const projectsData = [
     title: "Voting App",
     desc: "Full stack voting app built with Php & MySQL, HTML5, CSS3 and Javascript",
     url: "https://votecas.000webhostapp.com/index.php",
+    code: "",
     category: "PHP",
   },
   {
@@ -55,6 +61,7 @@ const projectsData = [
     title: "Educational App",
     desc: "Full stack edu webpage created with Php & MySQL, HTML5, CSS3 and Javascript",
     url: "",
+    code: "",
     category: "PHP",
   },
   {
@@ -62,6 +69,7 @@ const projectsData = [
     title: "GEMAMETTHYST Ng.",
     desc: "React Frontend Application created using React as rontend framework and Sass for styling",
     url: "https://gemamethyst.vercel.app/",
+    code: "",
     category: "React JS",
   },
   
