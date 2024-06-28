@@ -91,6 +91,9 @@ const projectsDataNav = [
     name: "React JS",
   },
   {
+    name: "Vue JS",
+  },
+  {
     name: "PHP",
   }
 ];
