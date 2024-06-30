@@ -1,5 +1,4 @@
 
-import Screenshot_20240629_004026_Chrome from "../../assets/src/assets/Screenshot_20240629_004026_Chrome.jpg";
 import Amethyst from "../../assets/ameth.png";
 import CAS from "../../assets/casss.png"
 import Vote from "../../assets/cas.png"
@@ -8,15 +7,7 @@ import GPT3 from"../../assets/gpt.png"
 import Admin from "../../assets/dboard.png"
 import Dragger from "../../assets/dragger.png"
 import GEM from "../../assets/gem.png"
-const projectsData = [
-  {
-    image: Screenshot_20240629_004026_Chrome,
-    title: "Quiz App",
-    desc: "Tdquiz Application created with vuejs",
-    url: "https://tquiz.netlify.app/",
-    code:"",
-    category: "Vue Js"
-  },
+const projectsData = [  
   {
     image: Amethyst,
     title: "Ecommerce App",
