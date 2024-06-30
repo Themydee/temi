@@ -1,4 +1,5 @@
 
+import Quiz from "../../assets/Quiz.jpg";
 import Amethyst from "../../assets/ameth.png";
 import CAS from "../../assets/casss.png"
 import Vote from "../../assets/cas.png"
@@ -16,6 +17,7 @@ const projectsData = [
     code: "",
     category: "React JS",
   },
+   
   {
     image: MovieApp,
     title: "Movie App",
@@ -23,6 +25,15 @@ const projectsData = [
     url: "https://movieapp.brimble.app/",
     code: "",
     category: "React JS",
+ },
+
+  {
+    image: Quiz,
+    title: "Quiz App",
+    desc: "Quiz Applicaion built with Vuejs.",
+    url: "https://tdquiz.netlify.app/",
+    code: "",
+    category: "Vue JS",
   },
   {
     image: Admin,
