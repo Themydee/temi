@@ -8,7 +8,17 @@ import GPT3 from"../../assets/gpt.png"
 import Admin from "../../assets/dboard.png"
 import Dragger from "../../assets/dragger.png"
 import GEM from "../../assets/gem.png"
+import Tracechain from "../../assets/tracechain.png"
 const projectsData = [  
+
+   {
+    image: Tracechain,
+    title: "Farm Supply Chain Application",
+    desc: "A supply chain application built with typescript, styled with tailwind css and the UI was built with shadCN",
+    url: "https://tracechain-ivory.vercel.app/",
+    code: "https://github.com/Themydee/saas-App",
+    category: "React JS",
+  },
   {
     image: Amethyst,
     title: "Ecommerce App",
@@ -83,6 +93,7 @@ const projectsData = [
     code: "",
     category: "React JS",
   },
+  
   
 ];
 
