@@ -51,9 +51,7 @@
     transition: box-shadow 0.3s ease-in-out;
   }
 
- .portfolio-card .link-layout{
-     display: block;
- }
+ 
   
   .portfolio-card:hover {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
