@@ -9,6 +9,7 @@ import Admin from "../../assets/dboard.png"
 import Dragger from "../../assets/dragger.png"
 import GEM from "../../assets/gem.png"
 import Tracechain from "../../assets/tracechain.png"
+import ITASK from "../.../assets/itask.png"
 const projectsData = [  
 
    {
@@ -16,6 +17,14 @@ const projectsData = [
     title: "Farm Supply Chain Application",
     desc: "A supply chain application built with typescript, styled with tailwind css and the UI was built with shadCN",
     url: "https://tracechain-ivory.vercel.app/",
+    code: "https://github.com/Themydee/itask",
+    category: "React JS",
+  },
+   {
+    image: ITASK,
+    title: "Task Application Platform",
+    desc: "A task application built with typescript, styled with tailwind css and the UI was built with shadCN",
+    url: "https://itask.brimble.app",
     code: "https://github.com/Themydee/saas-App",
     category: "React JS",
   },
