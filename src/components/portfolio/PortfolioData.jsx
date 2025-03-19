@@ -9,7 +9,7 @@ import Admin from "../../assets/dboard.png"
 import Dragger from "../../assets/dragger.png"
 import GEM from "../../assets/gem.png"
 import Tracechain from "../../assets/tracechain.png"
-import ITASK from "../.../assets/itask.png"
+import ITASK from "../../assets/itask.png"
 const projectsData = [  
 
    {
