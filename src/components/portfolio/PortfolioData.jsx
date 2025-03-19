@@ -9,7 +9,7 @@ import Admin from "../../assets/dboard.png"
 import Dragger from "../../assets/dragger.png"
 import GEM from "../../assets/gem.png"
 import Tracechain from "../../assets/tracechain.png"
-import Itask from "../../assets/itask.png"
+
 const projectsData = [  
 
    {
@@ -20,14 +20,14 @@ const projectsData = [
     code: "https://github.com/Themydee/itask",
     category: "React JS",
   },
-   {
-    image: Itask,
-    title: "Task Application Platform",
-    desc: "A task application built with typescript, styled with tailwind css and the UI was built with shadCN",
-    url: "https://itask.brimble.app",
-    code: "https://github.com/Themydee/itask",
-    category: "React JS",
-  },
+  //  {
+  //   image: Itask,
+  //   title: "Task Application Platform",
+  //   desc: "A task application built with typescript, styled with tailwind css and the UI was built with shadCN",
+  //   url: "https://itask.brimble.app",
+  //   code: "https://github.com/Themydee/itask",
+  //   category: "React JS",
+  // },
   {
     image: Amethyst,
     title: "Ecommerce App",
