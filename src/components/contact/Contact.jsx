@@ -57,7 +57,7 @@ const Contact = () => {
               <i className="bx bx-download contact-card-icon"></i>
               <h3 className="contact-card-title">Resume</h3>
               <a
-                href='https://drive.google.com/drive/folders/1LE5NpUWPe_nZk-27eTlyBwlm50QHlwBs?usp=drive_link'
+                href='https://drive.google.com/file/d/1bNokGj8pXuI9b12BYI_0wbdKM-_kaTTx/view?usp=drive_link'
                 className="contact-button"
                 target="_blank"
               >
