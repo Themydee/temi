@@ -10,6 +10,7 @@ import Dragger from "../../assets/dragger.png"
 import GEM from "../../assets/gem.png"
 import Tracechain from "../../assets/tracechain.png"
 import itask from "../../assets/itask.png"
+import Forever from '../../assets/FOREVER.png'
 
 const projectsData = [  
 
@@ -19,6 +20,14 @@ const projectsData = [
     desc: "A supply chain application built with typescript, styled with tailwind css and the UI was built with shadCN",
     url: "https://tracechain-ivory.vercel.app/",
     code: "https://github.com/Themydee/itask",
+    category: "React JS",
+  },
+  {
+    image: Forever,
+    title: "Forever",
+    desc: "Fullstack MERN e-commerce website",
+    url: "https://rn2.vercel.app/",
+    code: "",
     category: "React JS",
   },
    {
@@ -104,6 +113,7 @@ const projectsData = [
     category: "React JS",
   },
   
+
   
 ];
 
