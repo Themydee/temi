@@ -11,16 +11,18 @@ import GEM from "../../assets/gem.png"
 import Tracechain from "../../assets/tracechain.png"
 import itask from "../../assets/itask.png"
 import Forever from '../../assets/FOREVER.png'
+import Flowva from '../../assets/flowva.png'
+import Terra from '../../assets/TERRA.png'
 
 const projectsData = [  
 
-   {
-    image: Tracechain,
-    title: "Farm Supply Chain Application",
-    desc: "A supply chain application built with typescript, styled with tailwind css and the UI was built with shadCN",
-    url: "https://tracechain-ivory.vercel.app/",
-    code: "https://github.com/Themydee/itask",
-    category: "React JS",
+  {
+    image: Terra,
+    title: "Terra",
+    desc: "A fullstack blockchain-based platform for creating and managing decentralized sales of agricultural produces.",
+    url: "https://terra-sage.vercel.app/",
+    code: "",
+    category: "React JS"
   },
   {
     image: Forever,
@@ -35,6 +37,15 @@ const projectsData = [
     title: "Task Application Platform",
     desc: "A task application built with typescript, styled with tailwind css and the UI was built with shadCN",
     url: "https://itask.brimble.app",
+    code: "https://github.com/Themydee/itask",
+    category: "React JS",
+  },
+
+  {
+    image: Tracechain,
+    title: "Farm Supply Chain Application",
+    desc: "A supply chain application built with typescript, styled with tailwind css and the UI was built with shadCN",
+    url: "https://tracechain-ivory.vercel.app/",
     code: "https://github.com/Themydee/itask",
     category: "React JS",
   },
@@ -63,6 +74,15 @@ const projectsData = [
     url: "https://tdquiz.netlify.app/",
     code: "",
     category: "Vue JS",
+  },
+  {
+    image: Flowva,
+    title: "Flowva",
+    desc: "A fullstack MERN onboarding platform",
+    url: "https://flowva-ui-design.vercel.app/",
+    code: "",
+    category: "React JS",
+
   },
   {
     image: Admin,
