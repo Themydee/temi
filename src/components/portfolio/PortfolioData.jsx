@@ -13,8 +13,29 @@ import itask from "../../assets/itask.png"
 import Forever from '../../assets/FOREVER.png'
 import Flowva from '../../assets/flowva.png'
 import Terra from '../../assets/TERRA.png'
+import TheWayFd from '../../assets/theWay-Fd.png'
+import TheWay from '../../assets/theWay-admin.png'
 
 const projectsData = [  
+
+
+  {
+    image: TheWayFd,
+    title: "The Way Conference",
+    desc: "A fullstack conference registration application",
+    url: "https://theway-mu.vercel.app/",
+    code: "",
+    category: "React JS"
+  },
+
+  {
+     image: TheWay,
+    title: "The Way Conference Admin Dashboard",
+    desc: "A fullstack conference admin dashboard for handling user registration and validation",
+    url: "https://theway-admin.vercel.app/",
+    code: "",
+    category: "React JS"
+  },
 
   {
     image: Terra,
