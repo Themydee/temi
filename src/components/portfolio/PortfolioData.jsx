@@ -15,10 +15,18 @@ import Flowva from '../../assets/flowva.png'
 import Terra from '../../assets/TERRA.png'
 import TheWayFd from '../../assets/theWay-Fd.png'
 import TheWay from '../../assets/theWay-admin.png'
+import PayOn from "../../assets/pay.png"
 
 const projectsData = [  
 
-
+  {
+    image: PayOn,
+    title: "Payment Onboarding Screen",
+    desc: "A fully functional payment onboarding screen with payment gateway integration.",
+    url: "https://pay-on-41sn.vercel.app/",
+    code: "",
+    category: "React JS"
+  },
   {
     image: TheWayFd,
     title: "The Way Conference",
